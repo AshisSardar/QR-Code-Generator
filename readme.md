@@ -7,5 +7,5 @@ TechStacks used are :
 * Vanilla Js  
 * TailWind CSS
 
-<img src="img/screen.PNg">
+<img src="img/screen.PNG">
 
